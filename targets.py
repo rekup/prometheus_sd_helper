@@ -1,8 +1,8 @@
-"TODO"
+"Targets Class"
 import re
 
 class Targets:
-    "TODO test"
+    "Targets Class"
     def __init__(self, targets, labels=None):
         self.targets = targets
         if labels is None:

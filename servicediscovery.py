@@ -1,8 +1,8 @@
-"TODO"
+"ServiceDiscovery Class"
 import json
 
 class ServiceDiscovery:
-    "Class of a service discovery instance"
+    "ServiceDiscovery Class"
     def __init__(self, name="default"):
         self.name = name
         self.targets = []
